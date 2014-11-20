@@ -1,0 +1,6 @@
+c:\users\heather\documents\visual studio 2012\Projects\HW4Chat\HW4Chat\bin\Debug\HW4Chat.exe.config
+c:\users\heather\documents\visual studio 2012\Projects\HW4Chat\HW4Chat\bin\Debug\HW4Chat.exe
+c:\users\heather\documents\visual studio 2012\Projects\HW4Chat\HW4Chat\bin\Debug\HW4Chat.pdb
+c:\users\heather\documents\visual studio 2012\Projects\HW4Chat\HW4Chat\obj\Debug\HW4Chat.csprojResolveAssemblyReference.cache
+c:\users\heather\documents\visual studio 2012\Projects\HW4Chat\HW4Chat\obj\Debug\HW4Chat.exe
+c:\users\heather\documents\visual studio 2012\Projects\HW4Chat\HW4Chat\obj\Debug\HW4Chat.pdb
